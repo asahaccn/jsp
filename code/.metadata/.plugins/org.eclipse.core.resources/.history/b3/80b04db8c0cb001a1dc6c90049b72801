@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome To My Jsp Page</title>
+</head>
+<% 
+
+ int count =0;
+ int getCount()
+ {
+	 System.out.println("Inside getCount() Method");
+	 return count;
+	 
+ }
+%>
+<body>
+ Page Count Is <% out.println(getCount()); %>
+</body>
+</html>

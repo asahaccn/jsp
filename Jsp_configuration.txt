@@ -1,0 +1,14 @@
+                ------------Jsp Configuration ---------------
+
+1. Download Eclipse EE Edition
+2. Download Apache Tomcat , latest version ---->  go to core and download 32/64 bit one
+3. Go to Eclipse windows-->apache-->server-->runtime environment--->add the location of tomcat present
+   in local c directory and click ok.
+
+
+                  ----------How To Run A Jsp Program In Eclipse Ide------------
+
+ 1.file --> dynamic web project -->  project name --> web content --> new --> jsp file.
+
+
+                              -----End-----
